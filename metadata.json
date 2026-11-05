@@ -1,0 +1,6 @@
+{
+  "name": "TFI UNIVERSE - Telugu Cinema & Filmmaking Academy",
+  "description": "The ultimate Telugu cinema encyclopedia, male actors directory, interactive filmography, and comprehensive filmmaking and storyboarding studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
